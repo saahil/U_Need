@@ -1,9 +1,0 @@
-U_Need is a user collaborative search listing service for products and services. The services are listed based on the location entered by the user. All the services within in the vicinity(defined based on latitude and longitude values calculated by the GoogleMaps API) are listed. 
-
-It is a fully Django based web-app with no models defined currently. This isdone because the classifieds are sent in a fixed format as a twitter reply to the account @U_Need. When a search is called, the replies are retrieved back from the twitter account and the locations and product descriptions are matched.
-
-To access the "mentions" to the above user handle, you need to enter the password in the file /need/views.py. The password field is left blank, and I would provide it if you ask me to, on saahil.in@gmail.com. Otherwise, you could change the user handle to something of your own and enter your own password.
-
-Its a barely working model of the application itself, and by no means complete. Till I rent out server space to store the listing, I intend to use Twitter entirely for storage purposes. The later versions would see a few models incorporated and database calls rather than Twitter API calls. 
-
-So long.
