@@ -9,3 +9,6 @@ Its a barely working model of the application itself, and by no means complete. 
 I'm not including the templates because, well, they're too trivial at the moment. Nothing too fancy there. Though, drop me a mail if you'd like to see those too. 
 
 So long.
+
+Oh, and btw, get Ryan McGrath's Twython from http://github.com/ryanmcgrath/twython
+And googlemaps Python bindings(GoogleMaps) from http://sourceforge.net/projects/py-googlemaps/
