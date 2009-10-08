@@ -6,4 +6,6 @@ To access the "mentions" to the above user handle, you need to enter the passwor
 
 Its a barely working model of the application itself, and by no means complete. Till I rent out server space to store the listing, I intend to use Twitter entirely for storage purposes. The later versions would see a few models incorporated and database calls rather than Twitter API calls. 
 
+I'm not including the templates because, well, they're too trivial at the moment. Nothing too fancy there. Though, drop me a mail if you'd like to see those too. 
+
 So long.
