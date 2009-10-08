@@ -78,4 +78,5 @@ INSTALLED_APPS = (
     'django.contrib.sites',
 	#'django.contrib.admin', #Dont need the admin page for now
 	'uneed.have',
+	'uneed.need',
 )
