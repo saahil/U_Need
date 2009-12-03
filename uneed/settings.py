@@ -65,7 +65,7 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'uneed.urls'
 
-TEMPLATE_DIRS = ('/media/Pitara/Programming/django/uneed_temps'
+TEMPLATE_DIRS = ('/media/Pitara/Programming/django/U_Need/uneed_temps'
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
