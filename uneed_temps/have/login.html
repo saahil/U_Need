@@ -1,0 +1,8 @@
+<h1>Login</h1>
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %} 
+<form action ="/have/auth/" method ="post">
+      <input type="text" name="user" /><br/>
+      <input type="password" name="pass" />
+<input type="submit" value="Login" />
+</form>
+
